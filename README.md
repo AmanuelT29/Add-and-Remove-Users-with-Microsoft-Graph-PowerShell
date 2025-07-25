@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/52fb680e-df8c-4430-a2b9-3dc6d43aa87f" width="250" /> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" alt="PowerShell Logo" width="150"/>
+  <img src="https://github.com/user-attachments/assets/52fb680e-df8c-4430-a2b9-3dc6d43aa87f" width="150" /> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" alt="PowerShell Logo" width="150"/>
 </p>
 
 # Add and Remove Users with MicrosoftGraph PowerShell ISE
