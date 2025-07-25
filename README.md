@@ -66,12 +66,6 @@ This project showcases basic user lifecycle operations using Microsoft Graph Pow
 
 ## Conclusion
 
-Absolutely! Here's a **concise and professional conclusion** you can use for your project:
-
----
-
-### ✅ Conclusion
-
 This project demonstrated the core user management capabilities of Microsoft Graph PowerShell within Microsoft Entra ID. By scripting the creation and deletion of user accounts in PowerShell ISE, I gained hands-on experience with identity lifecycle automation. Verifying actions through both PowerShell and the Entra portal ensured accuracy and reinforced how these tools work together for effective administration.
 
 
