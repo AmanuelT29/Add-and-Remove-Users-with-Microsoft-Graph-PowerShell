@@ -20,7 +20,7 @@ This project showcases basic user lifecycle operations using Microsoft Graph Pow
 -------
 
 
-### Create New Users
+### Add New Users
 
 1. I first ran the `Connect-MgGraph` command to ensure that PowerShell ISE was connected to Microsoft Graph. Then, I used the `Get-MgUser` command to retrieve the list of existing users in Entra ID:
 
@@ -43,4 +43,16 @@ This project showcases basic user lifecycle operations using Microsoft Graph Pow
 <br>
 <img src="https://github.com/user-attachments/assets/4868cf16-d8b5-42e5-af5c-6d4d81117de9" alt="Entra ID Confirmation" width="700" />
 
-   
+-----
+
+### Remove Users
+
+1. To remove the three users I previously created, I opened a new script pane in PowerShell ISE, added the necessary removal commands along with the user credentials, and then executed the script:
+
+<img src="https://github.com/user-attachments/assets/693c7308-d1ab-4062-a7d1-9c13c8eb2a02" alt="User Deletion Script" width="600" />
+
+
+2. I verified the successful removal of the users by running the `Get-MgUser` command and checking the Deleted Users section in my Microsoft Entra ID portalto ensure the accounts were no longer listed:
+<img src="https://github.com/user-attachments/assets/cf98d194-91ca-4648-8019-8165ded1cb75" alt="Get-MgUser After Deletion" width="600" />
+<br>
+<img src="https://github.com/user-attachments/assets/e74b4cf4-09bd-4a9a-b6c8-8e7d3c83c629" alt="Deleted Users Section in Entra Portal" width="550" />
