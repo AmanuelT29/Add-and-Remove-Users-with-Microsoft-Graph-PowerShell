@@ -6,6 +6,11 @@
 
 ## Platform and Tools Used
 
+- PowerShell ISE
+- Microsoft Graph
+- Microsoft Entra ID
+- Web Browser
+
 ## Objective
 In this project, I will demonstrate how to create and delete user accounts in Microsoft Entra ID using Microsoft Graph PowerShell. Specifically, I will:
 
@@ -56,3 +61,7 @@ This project showcases basic user lifecycle operations using Microsoft Graph Pow
 <img src="https://github.com/user-attachments/assets/cf98d194-91ca-4648-8019-8165ded1cb75" alt="Get-MgUser After Deletion" width="600" />
 <br>
 <img src="https://github.com/user-attachments/assets/e74b4cf4-09bd-4a9a-b6c8-8e7d3c83c629" alt="Deleted Users Section in Entra Portal" width="550" />
+
+-----
+
+
